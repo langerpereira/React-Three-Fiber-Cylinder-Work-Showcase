@@ -11,7 +11,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 
-[![Alt text](/public/web4-Photoroom.png '3D slider')](https://cylinder-work-showcase.vercel.app/)
+![App Screenshot](https://i.postimg.cc/8PLgMdCt/web4-Photoroom.png)
 
 <h1>3D Cylinder Slider</h1>
 
