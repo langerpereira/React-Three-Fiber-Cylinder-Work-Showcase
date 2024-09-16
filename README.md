@@ -1,4 +1,8 @@
-# React + Vite
+<h1>3D Cylinder Slider</h1>
+
+<p>
+Create an interactive 3D cylinder slider using Three.js and React Three Fiber for smooth user experiences on the web.
+</p>
 
 https://react-3fiber-model.pages.dev/
 
@@ -13,8 +17,4 @@ Currently, two official plugins are available:
 
 ![App Screenshot](https://i.postimg.cc/8PLgMdCt/web4-Photoroom.png)
 
-<h1>3D Cylinder Slider</h1>
 
-<p>
-Create an interactive 3D cylinder slider using Three.js and React Three Fiber for smooth user experiences on the web.
-</p>
